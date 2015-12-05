@@ -1,0 +1,14 @@
+{
+  "name": "babel-demo",
+  "version": "1.0.0",
+  "description": "babel description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deostroll <deostroll@gmail.com> (http://twitter.com/deostroll)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.3.13"
+  }
+}
